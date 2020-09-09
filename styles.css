@@ -1,0 +1,128 @@
+body
+{
+    background-color: #EAF6F6;
+}
+p
+{
+  position: relative;
+  left: 20%;
+}
+
+img
+{
+  height: 50px;
+  width: 100px;
+}
+a:link
+{
+  color: red;
+}
+a:hover
+{
+  color: green;
+}
+a:visited
+{
+  color: cyan;
+}
+.awx:hover
+{
+  transform: scale(-1);
+}
+.hr1
+{
+  position: relative;
+  left: 270px;
+  width: 1200px;
+}
+.divcon
+{
+  position: fixed;
+  width: 19%;
+  height: 100%;
+  background-color: white;
+}
+.div
+{
+  position: relative;
+  left: 20%;
+  height: 100px;
+  width: 171px;
+  display: inline-block;
+  background-color: white;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 15px;
+
+}
+
+.graph
+{
+  position: relative;
+  left: 20%;
+  margin-top: 5px;
+  height: 200px;
+  width: 1080px;
+  display: inline-block;
+  background-color: white;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 15px;
+
+}
+
+.temp
+{
+  position: relative;
+  left: 20%;
+  margin-top: 5px;
+  height: 200px;
+  width: 540px;
+  display: inline-block;
+  background-color: white;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 15px;
+
+}
+
+.small
+{
+  width: 500px;
+  height: 50px;
+  background-color: grey;
+  position: relative;
+  left: 15px;
+}
+
+.job
+{
+  position: relative;
+  left: 20%;
+  margin-top: 5px;
+  height: 200px;
+  width: 530px;
+  display: inline-block;
+  background-color: white;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 15px;
+
+}
+
+.hed{
+
+  display: inline-block;
+  position:relative;
+
+}
+
+.abc
+{
+  display: inline-block;
+}
+
+.xyz
+{
+  display: inline-block;
+}
